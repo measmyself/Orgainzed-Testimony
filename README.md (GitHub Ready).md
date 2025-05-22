@@ -93,7 +93,7 @@ Before analysis, you'll be prompted to clean out `/Feedback_Summary` files:
 
 - **Current Version**: `v2.2.3`
 - **Rating Scale**: 4-point (Excellent = 4, Good = 3, Fair = 2, Poor = 1)
-- **Maintainer**: Geno Moore, Legal Aid Society
+- **Maintainer**: Measmyself, Mister
 
 ---
 
