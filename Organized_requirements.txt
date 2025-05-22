@@ -1,0 +1,30 @@
+# Primary Requirements
+pandas
+openpyxl
+matplotlib
+numpy
+
+# Secondary / Optional Enhancements
+seaborn
+python-dotenv
+pdfplumber
+PyPDF2
+pdfminer.six
+camelot
+tabula-py
+Pdf2docx
+PyMuPDF
+Borb
+IronPDF
+python-wkhtmltopdf
+requests
+beautifulsoup4
+schedule
+psutil
+scikit-learn
+scipy
+pbipy
+playwright
+jupysql
+duckdb
+xlsxwriter
